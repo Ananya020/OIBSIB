@@ -1,2 +1,2 @@
-# OIBSIB
+# Python mini projects
 
